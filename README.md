@@ -1,6 +1,6 @@
 # The Kelly Criterion applied to Ship Investor
 
-See [obrhubr.org/kelly-criterion](https://obrhubr.org/kelly-criterion-ship-investor-blackjack) for a full writeup.
+See [obrhubr.org/kelly-criterion-ship-investor-blackjack](https://obrhubr.org/kelly-criterion-ship-investor-blackjack) for a full writeup.
 
 ---
 
